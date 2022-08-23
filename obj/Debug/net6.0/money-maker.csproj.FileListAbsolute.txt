@@ -1,0 +1,15 @@
+/home/dan/C#/money-maker/obj/Debug/net6.0/money-maker.csproj.AssemblyReference.cache
+/home/dan/C#/money-maker/obj/Debug/net6.0/money-maker.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan/C#/money-maker/obj/Debug/net6.0/money-maker.AssemblyInfoInputs.cache
+/home/dan/C#/money-maker/obj/Debug/net6.0/money-maker.AssemblyInfo.cs
+/home/dan/C#/money-maker/obj/Debug/net6.0/money-maker.csproj.CoreCompileInputs.cache
+/home/dan/C#/money-maker/bin/Debug/net6.0/money-maker
+/home/dan/C#/money-maker/bin/Debug/net6.0/money-maker.deps.json
+/home/dan/C#/money-maker/bin/Debug/net6.0/money-maker.runtimeconfig.json
+/home/dan/C#/money-maker/bin/Debug/net6.0/money-maker.dll
+/home/dan/C#/money-maker/bin/Debug/net6.0/money-maker.pdb
+/home/dan/C#/money-maker/obj/Debug/net6.0/money-maker.dll
+/home/dan/C#/money-maker/obj/Debug/net6.0/refint/money-maker.dll
+/home/dan/C#/money-maker/obj/Debug/net6.0/money-maker.pdb
+/home/dan/C#/money-maker/obj/Debug/net6.0/money-maker.genruntimeconfig.cache
+/home/dan/C#/money-maker/obj/Debug/net6.0/ref/money-maker.dll
